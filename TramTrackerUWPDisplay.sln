@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TramTrackerUWPDisplay", "TramTrackerUWPDisplay\TramTrackerUWPDisplay.csproj", "{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1FB1D025-E039-49DD-88DF-D7DA43FD310A}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Debug|ARM.ActiveCfg = Debug|ARM
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Debug|ARM.Build.0 = Debug|ARM
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Debug|ARM.Deploy.0 = Debug|ARM
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Debug|ARM64.Build.0 = Debug|ARM64
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Debug|x64.ActiveCfg = Debug|x64
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Debug|x64.Build.0 = Debug|x64
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Debug|x64.Deploy.0 = Debug|x64
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Debug|x86.ActiveCfg = Debug|x86
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Debug|x86.Build.0 = Debug|x86
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Debug|x86.Deploy.0 = Debug|x86
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Release|ARM.ActiveCfg = Release|ARM
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Release|ARM.Build.0 = Release|ARM
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Release|ARM.Deploy.0 = Release|ARM
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Release|ARM64.ActiveCfg = Release|ARM64
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Release|ARM64.Build.0 = Release|ARM64
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Release|ARM64.Deploy.0 = Release|ARM64
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Release|x64.ActiveCfg = Release|x64
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Release|x64.Build.0 = Release|x64
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Release|x64.Deploy.0 = Release|x64
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Release|x86.ActiveCfg = Release|x86
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Release|x86.Build.0 = Release|x86
+		{10C5BC87-DE49-41BC-9476-7544BD3FFBEA}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C7820B3-E52B-4E2C-B5AE-DA6A50B56D3D}
+	EndGlobalSection
+EndGlobal
